@@ -16,8 +16,8 @@ MPG is a Bash script that plays random audio files using the `mpv` player.
    chmod +x mpg.sh
 Run the script:
 bash
-Copy code
-./mpg.sh
+Copy code to bin
+3. scipt work as shortcut only you mit have broblem in run it in terminall
  ## Configuration
 You can configure the script by editing the following files:
 
