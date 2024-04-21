@@ -30,7 +30,9 @@ Stay tuned for these exciting updates!
    chmod +x mpg.sh
 Run the script:
    ```bash
-   ./mpg
+   ./mpg #play soung or other soung
+----------------------------------
+   ./mpg -c #stop the player
 ```
 ```fish
 #Copy code to bin
