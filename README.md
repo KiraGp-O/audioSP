@@ -1,6 +1,19 @@
+
+
 # MPG Script
 
 MPG is a Bash script that plays random audio files using the `mpv` player.
+
+## Next Updates
+
+- Adding support for playing audio from YouTube URLs.
+- Implementing an ASCII interface for the script.
+- Integrating Spotify for playing music.
+- Adding support for CloudSound.
+- Implementing sound controls and special effects.
+- Introducing custom 8D audio portals for an immersive listening experience.
+
+Stay tuned for these exciting updates!
 
 ## Features
 
