@@ -17,7 +17,7 @@ Stay tuned for these exciting updates!
 
 ## Features
 
-- Automatically installs `mpv` if not already installed.
+- play any time the music with shortcut(One Click).
 - Plays random audio files from a configurable directory.
 - Supports volume adjustment.
 
