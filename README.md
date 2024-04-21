@@ -2,7 +2,8 @@
 
 # MPG Script
 
-MPG is a Bash script that plays random audio files using the `mpv` player.
+- work only for linux
+- MPG is a Bash script that plays random audio files using the `mpv` player.
 
 ## Next Updates
 
