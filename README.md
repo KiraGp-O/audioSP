@@ -1,9 +1,10 @@
 
+## AudioSP
 
 # MPG Script
 
 - work only for linux
-- MPG is a Bash script that plays random audio files using the `mpv` player.
+- MPG(AudioSP) is a Bash script that plays random audio files using the `mpv` player.
 
 ## Next Updates
 
